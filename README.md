@@ -1,3 +1,2 @@
-# mechatronics
-
+# Mechatronics
 All Lab code files
