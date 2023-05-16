@@ -1,4 +1,5 @@
 # Mechatronics
-All Lab code files
+All Lab code files are provided
 
-[MECHANISMS (Very basic Theory)](https://www.technologystudent.com/cams/camdex.htm) 
+For Basic theory check the link below:
+[MECHANISMS (Very Basic Theory)](https://www.technologystudent.com/cams/camdex.htm) 
